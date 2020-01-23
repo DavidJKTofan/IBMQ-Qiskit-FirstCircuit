@@ -7,7 +7,7 @@ Building my first quantum circuit and creating entanglement between 2 qubits wit
 For more info visit their official website: https://qiskit.org/ <br>
 
 # What is IBMQ?
-"BM Q is an industry first initiative to build universal quantum computers for business, engineering and science. This effort includes advancing the entire quantum computing technology stack and exploring applications to make quantum broadly usable and accessible." <br>
+"IBM Q is an industry first initiative to build universal quantum computers for business, engineering and science. This effort includes advancing the entire quantum computing technology stack and exploring applications to make quantum broadly usable and accessible." <br>
 
 For more information visit their official website: https://www.ibm.com/quantum-computing/learn/what-is-ibm-q/ <br>
 
